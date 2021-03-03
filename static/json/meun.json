@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "isSuccess": true,
+  "data": {
+    "naviList": [
+      {
+        "id": 1,
+        "icon": "el-icon-setting",
+        "title": "首页",
+        "path": "/home/"
+      },
+      {
+        "id": 2,
+        "icon": "el-icon-document",
+        "title": "项目列表",
+        "subnaviList":[
+          {
+            "id": 10,
+            "icon": "el-icon-document",
+            "title": "广东移动",
+            "path": "/gd"
+          },
+          {
+            "id": 11,
+            "icon": "el-icon-document",
+            "title": "后台管理",
+            "path": "/gd"
+          },
+          {
+            "id": 12,
+            "icon": "el-icon-document",
+            "title": "分省模板",
+            "path": "/gd"
+          },
+          {
+            "id": 13,
+            "icon": "el-icon-document",
+            "title": "工具箱",
+            "path": "/gd"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "el-icon-setting",
+        "title": "element使用",
+        "path": "/element"
+      },
+      {
+        "id": 4,
+        "icon": "el-icon-document",
+        "title": "echarts使用",
+        "path": "/echarts"
+      },
+      {
+        "id": 5,
+        "icon": "el-icon-setting",
+        "title": "其它",
+        "path": "/gd"
+      }
+    ]
+  }
+}
